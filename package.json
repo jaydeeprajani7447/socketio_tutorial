@@ -1,0 +1,27 @@
+{
+  "name": "socketio_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeeprajani7447/socketio_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydeeprajani7447/socketio_tutorial/issues"
+  },
+  "homepage": "https://github.com/jaydeeprajani7447/socketio_tutorial#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.2"
+  }
+}
